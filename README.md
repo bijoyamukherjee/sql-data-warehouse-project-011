@@ -34,7 +34,7 @@ This repository showcasing expertise in:
 
 ## Project Requirements
 
-### building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse (Data Engineering)
 
 #### Objective
 
